@@ -1,6 +1,6 @@
 $(document).ready(function() {
   $("#github").on('click', function() {
-    window.open("https://www.github.com");
+    window.open("https://www.github.com/shutil");
   });
 
   $("#facebook").on('click', function() {
