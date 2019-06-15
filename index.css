@@ -1,0 +1,175 @@
+.fa-bars
+{
+  color: #fff;
+  font-size: 30px;
+}
+
+.navbar
+{
+  background-image: linear-gradient(to right, #a517ba,#5f1782);
+  padding: 0;
+}
+
+.navbar-nav li
+{
+  padding: 0 10px;
+}
+
+.navbar-nav li a
+{
+  color: #fff !important;
+}
+
+#server
+{
+  size: 10em;
+}
+
+.fa-server
+{
+  color: #fff !important;
+  font-size: 30px;
+  margin-left: 5px;
+  margin-right: 10px;
+}
+
+.navbar-brand
+{
+  color: white !important;
+}
+
+
+
+/* banner */
+
+#banner
+{
+  background-image: linear-gradient(to right, #a517ba,#5f1782);
+  color: #fff;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.prom-title
+{
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 50px;
+}
+
+.image-fluid
+{
+  margin-left: 3em;
+}
+
+.fa-play-circle
+{
+  font-size:40px;
+  margin-bottom: 20px;
+  margin-right: 2px;
+  cursor: pointer;
+}
+
+.wt
+{
+  font-size: 15px;
+  font-weight: 600;
+  margin-top: 8px;
+  cursor: pointer;
+}
+
+.heading
+{
+  text-align: center;
+}
+
+.fa-database,.fa-usd,.fa-phone
+{
+  font-size: 70px;
+}
+
+
+/* about us */
+
+#aboutus
+{
+  background-image: linear-gradient(to right, #a517ba,#5f1782);
+  color: #fff;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.abu>li
+{
+  font-size: 30px;
+}
+
+.abu_img
+{
+  width: 80%;
+  height: 80%;
+}
+
+#abuh,#sh,#rh,#fh
+{
+  font-size: 50px;
+  font-weight: 1000;
+}
+
+.fa-user
+{
+  font-size: 100px;
+}
+
+#follow
+{
+  background-image: linear-gradient(to right, #a517ba,#5f1782);
+  color: #fff;
+  padding-top: 5%;
+}
+
+/* follow */
+
+.fa-google-plus-official,.fa-github,.fa-facebook-official,.fa-twitter
+{
+  margin-right: 13px;
+  font-size: 60px;
+}
+
+#follow>a
+{
+  color: white;
+}
+
+#services
+{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+#review
+{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+#github
+{
+  margin-left: 30px;
+}
+#github,#facebook,#twitter
+{
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+#github:hover,#facebook:hover,#twitter:hover
+{
+  color: black;
+}
+
+hr
+{
+  width: 40%;
+  background-color: #fff;
+}
